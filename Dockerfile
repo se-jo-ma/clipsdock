@@ -7,6 +7,7 @@ RUN mkdir /orq \
     gcc \
     git \
     make \
+    nano \
     python3 \
     py3-cffi \
     python3-dev \
